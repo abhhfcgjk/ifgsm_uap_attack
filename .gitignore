@@ -1,0 +1,6 @@
+*.pdf
+*.zip
+weights/
+/NIPS_test
+*.gz
+train/
